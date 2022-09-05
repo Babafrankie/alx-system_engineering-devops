@@ -1,1 +1,1 @@
-my first shell redirection readme
+0x02. Shell, I/O Redirections and filters
